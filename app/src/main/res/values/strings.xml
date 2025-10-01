@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mismatch</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dating">Dating</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="open">Profile</string>
+    <string name="close">Profile</string>
+    <string name="feedback">Feedback</string>
+    <string name="share">Share</string>
+    <string name="terms_condition">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="image_description">Description of the image</string>
+    <string name="card_stack_view_description">Card Stack View</string>
+    <string name="vc">Vc</string>
+    <string name="chat">chat</string>
+    <string name="love">love</string>
+    <string name="login2">loginimg</string>
+    <string name="userNumber">Number</string>
+    <string name="send_otp">SEND OTP</string>
+    <string name="textView1">ENTER OTP</string>
+    <string name="userOtp">OTP</string>
+    <string name="verifyOtp">VERIFY OTP</string>
+    <string name="userName">mismatch User</string>
+    <string name="userEmail">Email</string>
+    <string name="userCity">City</string>
+    <string name="userInterest">Your Interest</string>
+    <string name="termsCondition">Accept Terms and Condition</string>
+    <string name="saveData">CONTINUE</string>
+    <string name="textView3">TextView</string>
+    <string name="textView4">TextView</string>
+    <string name="textView5">TextView</string>
+
+    <string name="privacy_policy_text">
+        <![CDATA[
+        <h2>Privacy Policy</h2>
+        <h4>1. Introduction</h4>
+        <p>At Mismatch, we are committed to protecting the privacy of our users.</p>
+         <p>This Privacy Policy outlines how we collect, use, </p>
+         <p> and protect your information when you use our services. By using Mismatch, </p>
+         <p>you agree to the collection and use of information in accordance with this policy.</p>
+        ]]>
+    </string>
+
+
+
+</resources>
